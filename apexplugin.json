@@ -24,9 +24,7 @@
       "versions": ["20.1", "20.2", "21.1", "21.2", "22.1", "22.2", "23.1", "23.2", "24.1", "24.2"],
       "plugin": {
         "internalName": "IG.PERSIST",
-        "type": "dynamic action",
-        
-        "previewImage": "https://raw.githubusercontent.com/medezzinmh/ig-persist/main/preview.gif"
+        "type": "dynamic action"
       }
     }
   }
