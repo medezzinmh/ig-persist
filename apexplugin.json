@@ -5,6 +5,7 @@
   "keywords": ["apex", "interactive grid", "pagination", "persistence"],
   "homepage": "https://github.com/medezzinmh/ig-persist",
   "bugs": {
+    "url": "https://github.com/medezzinmh/ig-persist/issues",
     "email" : "mohamedezzinmahmoudi@gmail.com"
   },
   "license": "MIT",
