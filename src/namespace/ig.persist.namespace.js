@@ -1,0 +1,19 @@
+window.IGPersist = window.IGPersist || {};
+
+IGPersist.state = IGPersist.state || {};
+IGPersist.state.captureInit = IGPersist.state.captureInit || {};
+IGPersist.state.disableCapture = IGPersist.state.disableCapture || {};
+IGPersist.state.igModelsubId   = IGPersist.state.igModelsubId || {};
+
+IGPersist.log = {
+    warn: function () {
+        if (IGPersist.config && IGPersist.config.debug) {
+            console.warn.apply(console, arguments);
+        }
+    },
+    info: function () {
+        if (IGPersist.config && IGPersist.config.debug) {
+            console.info.apply(console, arguments);
+        }
+    }
+};

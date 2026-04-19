@@ -1,0 +1,33 @@
+{
+  "name": "Interactive Grid Persistence",
+  "version": "1.0.0",
+  "description": "Automatically restores the current page of an Oracle APEX Interactive Grid after refresh or reload. Works with lazy-loaded pagination using localStorage.",
+  "keywords": ["apex", "interactive grid", "pagination", "persistence"],
+  "homepage": "https://github.com/medezzinmh/ig-persist",
+  "bugs": {
+    "url": "https://github.com/medezzinmh/ig-persist/issues",
+    "email" : "mohamedezzinmahmoudi@gmail.com"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Mahmoudi Mohamed Ezzin",
+    "email" : "mohamedezzinmahmoudi@gmail.com",
+    "url": "https://github.com/medezzinmh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/medezzinmh/ig-persist.git"
+  },
+  "oracle": {
+    "apex": {
+      "versions": ["20.1", "20.2", "21.1", "21.2", "22.1", "22.2", "23.1", "23.2", "24.1", "24.2"],
+      "plugin": {
+        "internalName": "IG.PERSIST",
+        "type": "dynamic action",
+        "demo": "https://medezzinmh.com/sites/r/byteapex/apex-dev-hub/ig-persist",
+        "previewImage": "https://raw.githubusercontent.com/medezzinmh/ig-persist/main/preview.gif"
+      }
+    }
+  }
+}
