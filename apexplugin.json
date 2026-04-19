@@ -26,7 +26,8 @@
       "plugin": {
         "internalName": "IG.PERSIST",
         "type": "dynamic action",
-        "demo": "https://apex.oracle.com/pls/apex/r/work_apps/ig-pagination/ig"
+        "demo": "https://apex.oracle.com/pls/apex/r/work_apps/ig-pagination/ig",
+        "previewImage": "https://raw.githubusercontent.com/medezzinmh/ig-persist/main/igpersist.gif"
       }
     }
   }
