@@ -5,6 +5,7 @@
   "keywords": ["apex", "interactive grid", "pagination", "persistence"],
   "homepage": "https://github.com/medezzinmh/ig-persist",
   "bugs": {
+    "url" : "https://github.com/medezzinmh/ig-persist/issues",
     "email" : "mohamedezzinmahmoudi@gmail.com"
   },
   "license": "MIT",
@@ -25,7 +26,6 @@
       "plugin": {
         "internalName": "IG.PERSIST",
         "type": "dynamic action",
-        "previewImage": "https://raw.githubusercontent.com/medezzinmh/ig-persist/main/igpersist.gif",
         "demo": "https://apex.oracle.com/pls/apex/r/work_apps/ig-pagination/ig"
       }
     }
