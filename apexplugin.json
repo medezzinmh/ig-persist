@@ -26,7 +26,7 @@
       "plugin": {
         "internalName": "IG.PERSIST",
         "type": "dynamic action",
-        "demo": "https://medezzinmh.com",
+        "demo": "https://medezzinmh.com/sites/r/byteapex/apex-dev-hub/ig-persist",
         "previewImage": "https://raw.githubusercontent.com/medezzinmh/ig-persist/main/preview.gif"
       }
     }
