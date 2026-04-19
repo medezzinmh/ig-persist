@@ -21,7 +21,7 @@
   "oracle": {
     
     "apex": {
-      "versions": "versions" : ["12.1.0.2","19.0.0.0"],
+      "versions" : ["12.1.0.2","19.0.0.0"],
       "plugin": {
         "internalName": "IG.PERSIST",
         "type": "dynamic action",
