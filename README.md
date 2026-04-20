@@ -2,7 +2,7 @@
 
 Automatically restore the current page of an Oracle APEX Interactive Grid after refresh or reload.
 
-![Demo](./preview.gif)
+![Demo](./igpersist.gif)
 
 ---
 
